@@ -136,7 +136,7 @@ body {
 
 .section-b {
   display: flex;
-  background: url('/media/claquete.jpg') no-repeat center center/cover;
+  background: url('https://fabioaraujo76.github.io/Videoproductionweb/media/claquete.jpg') no-repeat center center/cover;
   color: #fff;
 }
 
@@ -150,7 +150,7 @@ body {
 
 .section-d {
   display: flex;
-  background: url('/media/lenses.jpg') no-repeat center center/cover;
+  background: url('https://fabioaraujo76.github.io/Videoproductionweb/media/lenses.jpg') no-repeat center center/cover;
   color: #fff;
 }
 
